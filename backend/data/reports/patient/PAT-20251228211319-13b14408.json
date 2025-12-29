@@ -1,0 +1,23 @@
+{
+  "report_id": "PAT-20251228211319-13b14408",
+  "generated_at": "2025-12-28T21:13:19.756501",
+  "summary": "You came to us with concerns about general discomfort. Based on our assessment, we recommend following the guidance provided below.",
+  "what_you_told_us": "You described experiencing: general discomfort.",
+  "our_assessment": "general discomfort",
+  "recommendations": [
+    "Continue monitoring your symptoms",
+    "Try home remedies and rest",
+    "Consult a doctor if symptoms persist beyond 3-5 days",
+    "Stay hydrated and get adequate rest"
+  ],
+  "warning_signs": [
+    "Sudden worsening of any symptom",
+    "New symptoms appearing",
+    "Difficulty breathing or shortness of breath",
+    "Chest pain or pressure",
+    "Confusion or difficulty staying awake",
+    "High fever (above 103\u00b0F/39.5\u00b0C)",
+    "Inability to keep fluids down"
+  ],
+  "when_to_seek_help": "Monitor your symptoms. If they persist beyond 3-5 days or worsen, consult a healthcare provider."
+}
